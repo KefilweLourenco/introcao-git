@@ -11,3 +11,8 @@ git push origin main
 *agora estamos na branch nova
 
 git checkout -b dev
+
+git log > ver histórico no terminal
+
+q > sair do histórico do terminal
+
